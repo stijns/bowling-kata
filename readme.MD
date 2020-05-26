@@ -21,6 +21,12 @@ In the tenth frame a player who rolls a spare or strike is allowed to roll the e
 balls to complete the frame.  However no more than three balls can be rolled in​
 tenth frame.
 
+## Goal
+
+- The program captures for each roll how many pins went down
+- At the end of the game the getScore() method provides the correct score
+
+
 ## TDD approach
 
 1) Write a unit test, the test fails
